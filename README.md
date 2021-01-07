@@ -2,7 +2,7 @@
 
 # Members-Only
 
-> This project is Where a user can Post,Edit and Delete Post, If he is signed in. Anybody if he is signed in or not can see the posts. if you are not signed in you cannot see the author of the Post. if you are signed in you can see the author of the post.
+> This project is Where a SignedIn user can Post,Edit and Delete Post. If User is not SignedIn he can SignUp. Any User if he is signed in or not can see the posts. SignedIn User can see the author of the post but the user who isn't SignedIn can't.
 
 ## Built With
 
