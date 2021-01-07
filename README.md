@@ -22,6 +22,7 @@
 3. Go to the root directory.
 4. Write yarn install
 5. Write bundle install
+6. Write rails db:migrate
 6. Write rails server
 
 ## Getting Started
