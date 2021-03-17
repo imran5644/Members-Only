@@ -18,7 +18,7 @@
 ## How to run
 
 1. Open Terminal.
-2. Write git clone https://github.com/hamayun-cpu/twitter_clone.git
+2. Write git clone https://github.com/imran5644/Members-Only.git
 3. Go to the root directory.
 4. Write yarn install
 5. Write bundle install
